@@ -156,3 +156,16 @@ nav li:hover ul {
 #herramientasVirtuales{
   width: 60%;
 }
+
+/* /////// AUTOR.HMTL ////// */
+
+#foto{
+  width: 20%;
+  float: left;
+}
+
+#datosAutor{
+  text-align: justify;
+  float: left;
+  margin-left: 10%;
+}
