@@ -169,3 +169,27 @@ nav li:hover ul {
   float: left;
   margin-left: 10%;
 }
+
+/* //////////////// MEDIA QUERIES ////////// */
+
+@media(max-width: 480px) {
+
+  h1{
+    font-size: 8pt;
+  }
+
+  .item1 h1 {
+    font-size: 8pt;
+  }
+
+  .item4{
+    display: none;
+  }
+}
+
+@media(min-width: 481px) and (max-width: 880px){
+  .item4 {
+    width: 10%;
+  }
+}
+
